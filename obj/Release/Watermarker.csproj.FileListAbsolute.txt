@@ -1,0 +1,27 @@
+c:\users\jay\documents\visual studio 2015\Projects\Watermarker\Watermarker\bin\Release\Watermarker.exe.config
+c:\users\jay\documents\visual studio 2015\Projects\Watermarker\Watermarker\bin\Release\Watermarker.exe
+c:\users\jay\documents\visual studio 2015\Projects\Watermarker\Watermarker\bin\Release\Watermarker.pdb
+c:\users\jay\documents\visual studio 2015\Projects\Watermarker\Watermarker\obj\Release\Watermarker.Form1.resources
+c:\users\jay\documents\visual studio 2015\Projects\Watermarker\Watermarker\obj\Release\Watermarker.Properties.Resources.resources
+c:\users\jay\documents\visual studio 2015\Projects\Watermarker\Watermarker\obj\Release\Watermarker.csproj.GenerateResource.Cache
+c:\users\jay\documents\visual studio 2015\Projects\Watermarker\Watermarker\obj\Release\Watermarker.exe
+c:\users\jay\documents\visual studio 2015\Projects\Watermarker\Watermarker\obj\Release\Watermarker.pdb
+c:\users\jay\documents\visual studio 2015\Projects\Watermarker\Watermarker\obj\Release\Watermarker.csprojResolveAssemblyReference.cache
+H:\Advanced IT Topics\Watermarker\Watermarker\bin\Release\Watermarker.exe.config
+H:\Advanced IT Topics\Watermarker\Watermarker\obj\Release\Watermarker.exe
+H:\Advanced IT Topics\Watermarker\Watermarker\obj\Release\Watermarker.pdb
+H:\Advanced IT Topics\Watermarker\Watermarker\bin\Release\Watermarker.exe
+H:\Advanced IT Topics\Watermarker\Watermarker\bin\Release\Watermarker.pdb
+H:\Advanced IT Topics\Watermarker\Watermarker\obj\Release\Watermarker.csprojResolveAssemblyReference.cache
+H:\Advanced IT Topics\Watermarker\Watermarker\obj\Release\Watermarker.Form1.resources
+H:\Advanced IT Topics\Watermarker\Watermarker\obj\Release\Watermarker.Properties.Resources.resources
+H:\Advanced IT Topics\Watermarker\Watermarker\obj\Release\Watermarker.csproj.GenerateResource.Cache
+C:\Users\20007645.WATERFORD.000\Desktop\Watermarker\Watermarker\bin\Release\Watermarker.exe.config
+C:\Users\20007645.WATERFORD.000\Desktop\Watermarker\Watermarker\obj\Release\Watermarker.exe
+C:\Users\20007645.WATERFORD.000\Desktop\Watermarker\Watermarker\obj\Release\Watermarker.pdb
+C:\Users\20007645.WATERFORD.000\Desktop\Watermarker\Watermarker\bin\Release\Watermarker.exe
+C:\Users\20007645.WATERFORD.000\Desktop\Watermarker\Watermarker\bin\Release\Watermarker.pdb
+C:\Users\20007645.WATERFORD.000\Desktop\Watermarker\Watermarker\obj\Release\Watermarker.csprojResolveAssemblyReference.cache
+C:\Users\20007645.WATERFORD.000\Desktop\Watermarker\Watermarker\obj\Release\Watermarker.Form1.resources
+C:\Users\20007645.WATERFORD.000\Desktop\Watermarker\Watermarker\obj\Release\Watermarker.Properties.Resources.resources
+C:\Users\20007645.WATERFORD.000\Desktop\Watermarker\Watermarker\obj\Release\Watermarker.csproj.GenerateResource.Cache
